@@ -1,0 +1,26 @@
+
+[
+	{
+		"name": "Marli",
+        "lastname": "Mayerhofer",
+		"email": "marli.peixoto@geradornv.com.br",
+		"password": "E&5QiuZ$r4YI",
+        "confirmpassword": "E&5QiuZ$r4YI"
+	},
+	{
+		"name": "André",
+		"lastname": "Vasgestian",
+		"email": "andre.cristo@geradornv.com.br",
+		"password": "lX&iBtf2DyKr",
+        "confirmpassword": "lX&iBtf2DyKr"
+	},
+	{
+		"name": "Alexandre ",
+		"lastname": "Venancio",
+		"email": "alexandre.paulo@geradornv.com.br",
+		"password": "514F%3Ao6NXZ",
+		"confirmpassword": "514F%3Ao6NXZ"
+	}
+]
+
+

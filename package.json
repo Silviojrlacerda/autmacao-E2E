@@ -1,0 +1,14 @@
+{
+  "name": "projeto-luna",
+  "version": "1.0.0",
+  "description": "Projeto Luna",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm rum test"
+  },
+  "author": "Silvio Junior",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.1.1"
+  }
+}
